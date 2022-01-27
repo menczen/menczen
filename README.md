@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @menczen
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Python
-- 📫 How to reach me menczen@gmail.com Discord:menczen#9767
+- � Hi, I’m @menczen
+- � I’m interested in programming
+- � I’m currently learning Python
+- � Contact menczen@gmail.com Discord:menczen#9767
