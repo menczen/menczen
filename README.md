@@ -1,4 +1,1 @@
-- � Hi, I’m @menczen
-- � I’m interested in programming
-- � I’m currently learning HTML, CSS and Python
-- � Contact menczen@gmail.com Discord:menczen#9767
+Contact menczen@gmail.com Discord:menczen#9767
